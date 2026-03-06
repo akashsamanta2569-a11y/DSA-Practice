@@ -9,6 +9,10 @@ This repository contains my daily Data Structures and Algorithms practice in C++
 
 ### Day 1
 - ✅ Array Sum Problem
+### Day 2
+- ✅ Array Max Element Problem
+### Day 3
+- ✅ Array Average Problem
 
 ---
 
